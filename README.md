@@ -1,4 +1,4 @@
-# nodejs-boilerplat
+# Nodejs Boilerplat
 Boilerplate for Backend APIs
 
 ## Packages 
