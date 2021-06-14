@@ -11,7 +11,7 @@ Boilerplate for Backend APIs
 - Security: helmet 
 - Authentication: jsonwebtoken
 - RateLimiting 
-- Caching - redis 
+- Caching - redis or memory-cache  
 - Queue package - https://github.com/OptimalBits/bull or AWS SQS
 - Linting 
 - Babel
@@ -22,6 +22,26 @@ Boilerplate for Backend APIs
 - Nodemon 
 - logs : morgan
 - multer
+- Pug 
 
 
 ## Folder Structure 
+
+
+
+
+## pages
+- Home/landing page
+- Login 
+- registration 
+- dashboard 
+- 404
+- 500 
+
+
+
+## API 
+
+
+
+
